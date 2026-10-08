@@ -30,9 +30,11 @@ B.Tech in AI & Data Science (CGPA 8.6) · 7 months at F22 Labs shipping STT, TTS
 
 ## Writing
 
-- [What Is Meta Prompting? How to Design Better Prompts](#)
-- [We Ran LLMs Faster Using Multi-Token Prediction](#)
-- [vLLM vs vLLM-Omni: Which One Should You Use?](#)
+- [What Is Meta Prompting? How to Design Better Prompts](https://www.f22labs.com/blogs/what-is-meta-prompting-how-to-design-better-prompts/)
+- [We Ran LLMs Faster Using Multi-Token Prediction](https://www.f22labs.com/blogs/we-ran-llms-faster-using-multi-token-prediction-heres-how/)
+- [vLLM vs vLLM-Omni: Which One Should You Use?](https://www.f22labs.com/blogs/vllm-vs-vllm-omni-which-one-should-you-use/)
+- [how-to-prepare-a-dataset-for-whisper-small-fine-tuning](https://www.f22labs.com/blogs/how-to-prepare-a-dataset-for-whisper-small-fine-tuning/)
+- [how-to-evaluate-whisper-small-before-fine-tuning](https://www.f22labs.com/blogs/how-to-evaluate-whisper-small-before-fine-tuning/)
 
 ## Currently
 
@@ -40,4 +42,4 @@ Looking for AI/ML engineer roles where I can build and evaluate speech, LLM and 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/-swathilakshmi/) · [Email](mailto:swathilakshmibarisith@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/-swathilakshmi/) · [Email](mailto:swathilakshmibarisith@gmail.com)  Contact number: 6374657311
