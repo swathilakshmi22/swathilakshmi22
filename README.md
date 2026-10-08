@@ -17,10 +17,15 @@ B.Tech in AI & Data Science (CGPA 8.6) · 7 months at F22 Labs shipping STT, TTS
 ## Tech stack
 
 **Languages:** Python, Java
+
 **Speech & audio:** LiveKit, VAD, FFmpeg, real-time streaming, Hugging Face
+
 **LLMs & inference:** vLLM, SGLang, ExLlamaV3, llama.cpp, Ollama, speculative decoding
+
 **RAG & retrieval:** Qdrant, embeddings, chunking, Chonkie
+
 **Agents:** CrewAI, AgentScope, MCP, function calling
+
 **Tooling:** Docker, FastAPI, TensorFlow, scikit-learn, Pandas, Git, Linux, CUDA, AWS, MySQL
 
 ## Writing
